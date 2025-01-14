@@ -70,11 +70,6 @@
 
 ---
 
-<h3 align="center">🐍 Snake Contributions:</h3>
-<p align="center">
-  <img src="https://github.com/CotNeo/snake-game/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
 ---
 
 _This README was crafted with ❤️ by Furkan_
