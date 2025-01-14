@@ -48,13 +48,11 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CotNeo&show_icons=true&theme=radical" alt="CotNeo stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CotNeo&theme=radical" alt="CotNeo streak" />
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=CotNeo&theme=radical" alt="CotNeo trophies" />
 </p>
 
 ---
 
-<h3 align="left">🎮 Dynamic Animations:</h3>
+<h3 align="left">🎮Animations:</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="300" alt="Coding Animation" />
 </p>
