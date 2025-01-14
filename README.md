@@ -1,3 +1,8 @@
+### 🐍 Snake eating my contributions!
+
+![Snake animation](https://github.com/CotNeo/snake-game/blob/output/github-contribution-grid-snake.svg)
+
+
 <a href="https://github.com/CotNeo">
   <img src="https://markovate.com/wp-content/uploads/2022/08/top-MERN-Stack.webp" alt="MasterHead" height="500" width="1000">
 </a>
