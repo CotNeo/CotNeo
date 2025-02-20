@@ -1,6 +1,3 @@
-<a href="https://github.com/CotNeo">
-  <img src="https://markovate.com/wp-content/uploads/2022/08/top-MERN-Stack.webp" alt="MasterHead" height="400" width="100%">
-</a>
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A Passionate Full Stack Developer from Turkey</h3>
