@@ -57,10 +57,4 @@
 
 ---
 
-## 🏆 Featured Projects
-- 🚀 **[Fitness Tracker App](#)** - A web application to track fitness goals and progress.
-- 📚 **[BookishHub](https://github.com/CotNeo/BookishHub)** - A book management platform built with the MERN stack.
-
----
-
 <p align="center">_This README was crafted with ❤️ by Furkan_</p>
