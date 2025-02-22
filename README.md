@@ -56,6 +56,8 @@
 <p align="center">
   <img src="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/4122575dc0cda9c0d7ae61c0476a0d16" width="300" alt="Certificate" />
 </p>
+### 🎓 Certification:
+[![Full Stack Open Certificate](https://img.shields.io/badge/FullStackOpen-Certificate-blue?style=flat&logo=vercel)](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/4122575dc0cda9c0d7ae61c0476a0d16)
 
 ---
 
