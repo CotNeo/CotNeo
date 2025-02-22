@@ -52,9 +52,9 @@
 
 ---
 
-<h3 align="left">🎮 Animations:</h3>
+<h3 align="left">Licence:</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="300" alt="Coding Animation" />
+  <img src="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/4122575dc0cda9c0d7ae61c0476a0d16" width="300" alt="Certificate" />
 </p>
 
 ---
