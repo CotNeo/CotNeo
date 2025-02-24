@@ -23,7 +23,7 @@
 ## ⚡ Tech Arsenal  
 
 ### 🖥️ Frontend  
-🔹 **React**, **Next.js**, **TypeScript**, **Tailwind CSS**  
+🔹 **React**, **Next.js**, **TypeScript**, **Tailwind CSS** ,**ReactBootsrap**  
 
 ### ⚙️ Backend  
 🔹 **Node.js**, **Express**, **GraphQL**, **tRPC**, **Prisma**  
