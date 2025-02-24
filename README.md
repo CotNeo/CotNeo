@@ -8,11 +8,14 @@
 ---
 
 ## 🔥 About Me
-- 🚀 **Current Focus:** Developing **Full Stack Web Applications** with the MERN stack.
-- 🎯 **Exploring:** **TypeScript**, **GraphQL**, **Jest**, and **Advanced React**.
-- 🤝 **Collaboration:** Open to contributing to **Open Source Projects** and innovative ideas.
-- 🏋️ **Fun Fact:** I practice **calisthenics** and love building scalable apps.
-
+🚀 Building Scalable & Performant Full-Stack Applications with the MERN Stack
+⚡ Tech Arsenal: React, Node.js, Express, MongoDB, TypeScript, Next.js, GraphQL, tRPC, Tailwind, Prisma, Docker, AWS
+🎯 Deep Diving Into: System Design, Microservices, Edge Computing, Advanced State Management (Zustand, Recoil), Web Performance Optimization
+🛠 Engineering Mindset: Clean Code, Software Architecture, Design Patterns, Testing (Jest, Cypress), CI/CD Pipelines
+💡 Passionate About: Automation, DevOps, Scalable Systems, and AI-Driven Web Apps
+🤝 Collaboration: Actively contributing to Open Source, mentoring, and discussing cutting-edge tech innovations.
+🏋️ Beyond Code: Calisthenics Athlete & Biohacker—Optimizing both mind and body for peak performance.
+🚀 Let’s build the future, one scalable system at a time!
 ---
 
 ## 🌐 Connect with Me
