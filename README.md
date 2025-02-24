@@ -18,7 +18,7 @@
 🏋️ Beyond Code: Calisthenics Athlete & Biohacker—Optimizing both mind and body for peak performance.
 🚀 Let’s build the future, one scalable system at a time!
   </p>
----
+
 
 ## 🌐 Connect with Me
 <p align="center">
