@@ -8,6 +8,7 @@
 ---
 
 ## 🔥 About Me
+<p align="center">
 🚀 Building Scalable & Performant Full-Stack Applications with the MERN Stack
 ⚡ Tech Arsenal: React, Node.js, Express, MongoDB, TypeScript, Next.js, GraphQL, tRPC, Tailwind, Prisma, Docker, AWS
 🎯 Deep Diving Into: System Design, Microservices, Edge Computing, Advanced State Management (Zustand, Recoil), Web Performance Optimization
@@ -16,6 +17,7 @@
 🤝 Collaboration: Actively contributing to Open Source, mentoring, and discussing cutting-edge tech innovations.
 🏋️ Beyond Code: Calisthenics Athlete & Biohacker—Optimizing both mind and body for peak performance.
 🚀 Let’s build the future, one scalable system at a time!
+  </p>
 ---
 
 ## 🌐 Connect with Me
