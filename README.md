@@ -6,37 +6,73 @@
 </p>
 
 ---
+<h1 align="center">🚀 Building Scalable & Performant Full-Stack Applications</h1>
+<p align="center">
+  <strong>with the MERN Stack</strong>
+</p>
 
-🔥 About Me
-<p align="center"> 🚀 **Building Scalable & Performant Full-Stack Applications** with the **MERN Stack** </p>
-⚡ Tech Arsenal
-Frontend: React, Next.js, TypeScript, Tailwind CSS
-Backend: Node.js, Express, GraphQL, tRPC, Prisma
-API Development: RESTful API Design, GraphQL APIs, tRPC, WebSockets
-Database & DevOps: MongoDB, Docker, AWS, CI/CD Pipelines
-Testing: Jest, Cypress
-🎯 Deep Diving Into
-RESTful API Design & Best Practices
-System Design & Scalable Architectures
-Microservices & Edge Computing
-Advanced State Management (Zustand, Recoil)
-Web Performance Optimization
-🛠 Engineering Mindset
-Clean Code & Software Architecture
-RESTful API Standards & Optimization
-Design Patterns & Best Practices
-Testing & Automation
-💡 Passionate About
-Automation & DevOps
-AI-Driven Web Applications
-Scalable & Performant Systems
-🤝 Collaboration
-Contributing to Open Source Projects
-Mentoring & Tech Discussions
-Always open to innovative ideas
-🏋️ Beyond Code
-Calisthenics Athlete & Biohacker
-Optimizing both mind and body for peak performance
+---
+
+## 🔥 About Me  
+🚀 Passionate **Full-Stack Developer** crafting scalable & performant web applications.  
+⚡ Exploring **system design**, **microservices**, and **web performance optimization**.  
+🤖 Enthusiastic about **AI-driven applications** and **DevOps automation**.  
+
+---
+
+## ⚡ Tech Arsenal  
+
+### 🖥️ Frontend  
+🔹 **React**, **Next.js**, **TypeScript**, **Tailwind CSS**  
+
+### ⚙️ Backend  
+🔹 **Node.js**, **Express**, **GraphQL**, **tRPC**, **Prisma**  
+
+### 🌐 API Development  
+🔹 **RESTful APIs**, **GraphQL APIs**, **tRPC**, **WebSockets**  
+
+### 🗄️ Database & DevOps  
+🔹 **MongoDB**, **Docker**, **AWS**, **CI/CD Pipelines**  
+
+### 🧪 Testing  
+🔹 **Jest**, **Cypress**  
+
+---
+
+## 🎯 Deep Diving Into  
+🚀 **RESTful API Design & Best Practices**  
+🏗 **System Design & Scalable Architectures**  
+⚙️ **Microservices & Edge Computing**  
+🌀 **Advanced State Management (Zustand, Recoil)**  
+⚡ **Web Performance Optimization**  
+
+---
+
+## 🛠 Engineering Mindset  
+✅ **Clean Code & Software Architecture**  
+✅ **RESTful API Standards & Optimization**  
+✅ **Design Patterns & Best Practices**  
+✅ **Testing & Automation**  
+
+---
+
+## 💡 Passionate About  
+🔥 **Automation & DevOps**  
+🤖 **AI-Driven Web Applications**  
+⚡ **Scalable & Performant Systems**  
+
+---
+
+## 🤝 Collaboration  
+💬 **Contributing to Open Source Projects**  
+👨‍🏫 **Mentoring & Tech Discussions**  
+🚀 **Always open to innovative ideas**  
+
+---
+
+## 🏋️ Beyond Code  
+💪 **Calisthenics Athlete & Biohacker**  
+🧠 **Optimizing both mind and body for peak performance**  
 
 
 ## 🌐 Connect with Me
