@@ -35,7 +35,7 @@
 🔹 **MongoDB**, **Docker**, **AWS**, **CI/CD Pipelines**  
 
 ### 🧪 Testing  
-🔹 **Jest**, **Cypress**  
+🔹 **Jest**, **Cypress** ,**Supertest**
 
 ---
 
