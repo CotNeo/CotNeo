@@ -114,6 +114,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" alt="Netlify" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50"/>
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/png/docker.png" alt="Vite" width="50" height="50"/>
 </p>
 
 ---
