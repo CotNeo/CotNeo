@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Furkan</h1>
+ <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A Passionate Full Stack Developer from Turkey</h3>
 
 <p align="center">
@@ -128,22 +128,11 @@
 
 ---
 
-
-##📌 Featured Projects
-
-🚀 DeepSeek RAG Chatbot - AI-Powered Chatbot using DeepSeekR1 & Next.js
-🌍 BookishHub.com - Book Management & Social Reading Platform
-⚡ SaaS AI Chatbot - AI-powered customer support chatbot with AWS & OpenAI API
-
----
-
-
 ## 🎓 Certificates
 <p align="center">
   <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/4122575dc0cda9c0d7ae61c0476a0d16" target="_blank">Click here to view my Full Stack Open Certificate</a>
 </p>
-<p>📜 AWS Certified Developer - Associate (In Progress)📜 Certified Kubernetes Administrator (In Progress)</p>
-<p>📜 Certified Kubernetes Administrator (In Progress)</p>
+
 ---
 
 <p align="center">_This README was crafted with ❤️ by Furkan_</p>
