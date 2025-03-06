@@ -130,7 +130,8 @@
 
 ## 🎓 Certificates
 <p align="center">
-  <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/4122575dc0cda9c0d7ae61c0476a0d16" target="_blank">Click here to view my Full Stack Open Certificate</a>
+  <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/4122575dc0cda9c0d7ae61c0476a0d16" target="_blank">Click here to view my Full Stack Open Certificate</a> 
+  <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/9a2e150918ec8fa50aaae6c6b5c1f93d" target="_blank">Click here to view my Full Stack Open Certificate </a>
 </p>
 
 ---
