@@ -26,13 +26,13 @@
 🔹 **React**, **Next.js**, **TypeScript**, **Tailwind CSS** ,**ReactBootsrap**  
 
 ### ⚙️ Backend  
-🔹 **Node.js**, **Express**, **GraphQL**, **tRPC**, **Prisma**  
+🔹 **Node.js**, **Express**, **GraphQL**,   
 
 ### 🌐 API Development  
-🔹 **RESTful APIs**, **GraphQL APIs**, **tRPC**, **WebSockets**  
+🔹 **RESTful APIs**, **GraphQL APIs**, **WebSockets**  
 
 ### 🗄️ Database & DevOps  
-🔹 **MongoDB**, **Docker**, **AWS**, **CI/CD Pipelines**  
+🔹 **MongoDB**, **Docker**, **AWS**, **VERCEL** ,**CI/CD Pipelines**
 
 ### 🧪 Testing  
 🔹 **Jest**, **Cypress** ,**Supertest**
@@ -43,7 +43,7 @@
 🚀 **RESTful API Design & Best Practices**  
 🏗 **System Design & Scalable Architectures**  
 ⚙️ **Microservices & Edge Computing**  
-🌀 **Advanced State Management (Zustand, Recoil)**  
+🌀 **Advanced State Management (Zustand, Recoil,Redux)**  
 ⚡ **Web Performance Optimization**  
 
 ---
@@ -129,10 +129,7 @@
 ---
 
 ## 🎓 Certificates
-<p align="center">
-  <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/4122575dc0cda9c0d7ae61c0476a0d16" target="_blank">Click here to view my Full Stack Open Certificate</a> 
-  <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/9a2e150918ec8fa50aaae6c6b5c1f93d" target="_blank">Click here to view my Full Stack Open Certificate </a>
-</p>
+<p align="center"> <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/4122575dc0cda9c0d7ae61c0476a0d16" target="_blank"> <img src="https://img.shields.io/badge/Full%20Stack%20Open%20Certificate-%2300D1FF.svg?&style=for-the-badge&logo=code&logoColor=white" alt="Full Stack Open Certificate"> </a> <br> <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/9a2e150918ec8fa50aaae6c6b5c1f93d" target="_blank"> <img src="https://img.shields.io/badge/Full%20Stack%20GraphQL%20Certificate-%23FF5733.svg?&style=for-the-badge&logo=graphql&logoColor=white" alt="Full Stack GraphQL Certificate"> </a> </p>
 
 ---
 
