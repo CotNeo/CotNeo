@@ -132,8 +132,19 @@
 ---
 
 ## 🎓 Certificates
-<p align="center"> <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/4122575dc0cda9c0d7ae61c0476a0d16" target="_blank"> <img src="https://img.shields.io/badge/Full%20Stack%20Open%20Certificate-%2300D1FF.svg?&style=for-the-badge&logo=code&logoColor=white" alt="Full Stack Open Certificate"> </a> <br> <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/9a2e150918ec8fa50aaae6c6b5c1f93d" target="_blank"> <img src="https://img.shields.io/badge/Full%20Stack%20GraphQL%20Certificate-%23FF5733.svg?&style=for-the-badge&logo=graphql&logoColor=white" alt="Full Stack GraphQL Certificate"> </a> </p>
+<p align="center"> 
+  <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/4122575dc0cda9c0d7ae61c0476a0d16" target="_blank"> 
+    <img src="https://img.shields.io/badge/Full%20Stack%20Open%20Certificate-%2300D1FF.svg?&style=for-the-badge&logo=code&logoColor=white" alt="Full Stack Open Certificate"> 
+  </a> 
+  <br> 
+  <a href="https://studies.cs.helsinki.fi/stats/api/certificate/fs-graphql/en/9a2e150918ec8fa50aaae6c6b5c1f93d" target="_blank"> 
+    <img src="https://img.shields.io/badge/Full%20Stack%20GraphQL%20Certificate-%23FF5733.svg?&style=for-the-badge&logo=graphql&logoColor=white" alt="Full Stack GraphQL Certificate"> 
+  </a> 
+</p>
 
 ---
+
+📌 **GitHub Repository:** [Full Stack Open Repo](https://github.com/CotNeo/fullstack-Open)
+
 
 <p align="center">_This README was crafted with ❤️ by Furkan_</p>
