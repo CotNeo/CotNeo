@@ -141,7 +141,7 @@
     <img src="https://img.shields.io/badge/Full%20Stack%20GraphQL%20Certificate-%23FF5733.svg?&style=for-the-badge&logo=graphql&logoColor=white" alt="Full Stack GraphQL Certificate"> 
   </a> 
 </p>
-📌 **GitHub Repository:** [Full Stack Open Repo](https://github.com/CotNeo/fullstack-Open)
+
 
 ---
 <p align="center">_This README was crafted with ❤️ by Furkan_</p>
