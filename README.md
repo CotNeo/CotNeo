@@ -26,13 +26,13 @@
 🔹 **React**, **Next.js**, **TypeScript**, **Tailwind CSS** ,**ReactBootsrap**  
 
 ### ⚙️ Backend  
-🔹 **Node.js**, **Express**, **GraphQL**,   
+🔹 **Node.js**, **Express**, **Puppeteer**, **JWT** , **winston** , **dotenv**   
 
 ### 🌐 API Development  
 🔹 **RESTful APIs**, **GraphQL APIs**, **WebSockets**  
 
 ### 🗄️ Database & DevOps  
-🔹 **MongoDB**, **Docker**, **AWS**, **VERCEL** ,**CI/CD Pipelines**
+🔹 **MongoDB**, **PostreSQL**, **Docker**, **AWS**, **VERCEL** ,**CI/CD Pipelines**
 
 ### 🧪 Testing  
 🔹 **Jest**, **Cypress** ,**Supertest**
