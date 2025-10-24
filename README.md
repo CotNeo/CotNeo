@@ -21,7 +21,7 @@
 ### 🖥️ Frontend  
 🔹 **React**, **Next.js**, **TypeScript**, **Tailwind CSS** ,**ReactBootsrap**  
 
-📱 Mobile Frontend
+### 📱 Mobile Frontend
 🔹 **React Native**, **Expo**, **TypeScript**, **NativeWind (Tailwind CSS)**, **React Navigation**, **React Native Paper**
 
 ### ⚙️ Backend  
