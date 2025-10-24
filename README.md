@@ -21,8 +21,11 @@
 ### 🖥️ Frontend  
 🔹 **React**, **Next.js**, **TypeScript**, **Tailwind CSS** ,**ReactBootsrap**  
 
+📱 Mobile Frontend
+🔹 **React Native**, **Expo**, **TypeScript**, **NativeWind (Tailwind CSS)**, **React Navigation**, **React Native Paper**
+
 ### ⚙️ Backend  
-🔹 **Node.js**, **Express**, **Puppeteer**, **JWT** , **winston** , **dotenv**   
+🔹 **Node.js**, **Express**
 
 ### 🌐 API Development  
 🔹 **RESTful APIs**, **GraphQL APIs**, **WebSockets**  
